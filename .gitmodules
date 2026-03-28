@@ -1,0 +1,9 @@
+[submodule "appointment-service"]
+	path = appointment-service
+	url = https://github.com/lakmal-yapa-22/smart-clinic-appointment-service.git
+[submodule "billing-service"]
+	path = billing-service
+	url = https://github.com/lakmal-yapa-22/smart-clinic-billing-service.git
+[submodule "patient-service"]
+	path = patient-service
+	url = https://github.com/lakmal-yapa-22/smart-clinic-patient-service.git
